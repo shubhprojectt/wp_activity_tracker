@@ -1,4 +1,4 @@
-<h1 align="center">Device Activity Tracker</h1>
+<h1 align="center">WhatsApp & Signal Activity Tracker via RTT Analysis</h1>
 <p align="center">WhatsApp & Signal Activity Tracker via RTT Analysis</p>
 
 <p align="center">
@@ -177,7 +177,7 @@ Based on research by Gegenhuber et al., University of Vienna & SBA Research:
 
 MIT License - See LICENSE file.
 
-Built with [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)
+Built with [@shubh/dark](https://github.com/WhiskeySockets/Baileys)
 
 ---
 
